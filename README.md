@@ -14,7 +14,7 @@ This repository is an aggregation of buzzwords gathered from ES (Software Engine
 ### Readers Reviews
 > The Bibble of the course
 
-<p align="right">Luis Sobral Silva</p>
+<p align="right">Luís Sobral Silva</p>
 <br/>
 
 > The best think that ever happened to me after meeting professor JMF
