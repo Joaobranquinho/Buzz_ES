@@ -1,22 +1,24 @@
-Jenkins
-Pipeline
-Production
+# Devops and Jenkins
 
-Steps
--> Develop
--> Build
--> Test
--> Deploy
--> Release
-
-
-Jobs
-Artifacts
-Jenkins Plugins
-Pipeline Script
-
-Stages
-Declarative Pipeline
-
-SonarQube
-Artefactory
+> Jenkins
+> Pipeline
+> Production
+> 
+> Steps
+> -> Develop
+> -> Build
+> -> Test
+> -> Deploy
+> -> Release
+> 
+> 
+> Jobs
+> Artifacts
+> Jenkins Plugins
+> Pipeline Script
+> 
+> Stages
+> Declarative Pipeline
+> 
+> SonarQube
+> Artefactory
