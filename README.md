@@ -1,7 +1,7 @@
 # Buzz ES
 This repository is an aggregation of buzzwords gathered from ES (Software Engineer) PowerPoint Presentations.
 
-### Documentation
+### Index
 
 * [Devops and Testing](https://github.com/Joaobranquinho/Buzz_ES/tree/master/Devops_and_Testing)
 * [DevOps and MSA](https://github.com/Joaobranquinho/Buzz_ES/tree/master/MSA_and_DevOps)
