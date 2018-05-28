@@ -31,6 +31,6 @@ This repository is an aggregation of buzzwords gathered from ES (Software Engine
 <p align="right">Pedro Martins</p>
 
 
-> I wish I have read the book before seeing the movie.
+> I wish I had read the book before seeing the movie.
 
 <p align="right">João Fonseca</p>
