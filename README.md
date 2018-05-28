@@ -25,3 +25,7 @@ This repository is an aggregation of buzzwords gathered from ES (Software Engine
 > If I ever wanted to take drugs I'd read this stuff several times
 
 <p align="right">Manuel Xarez</p>
+
+> If ever there was a Software Engeneering Nobel Prize, this work would win it, no questions asked.
+
+<p align="right">Pedro Martins</p>
