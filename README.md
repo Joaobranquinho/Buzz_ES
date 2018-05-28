@@ -29,3 +29,8 @@ This repository is an aggregation of buzzwords gathered from ES (Software Engine
 > If ever there was a Software Engeneering Nobel Prize, this work would win it, no questions asked.
 
 <p align="right">Pedro Martins</p>
+
+
+> I wish I have read the book before seeing the movie.
+
+<p align="right">João Fonseca</p>
